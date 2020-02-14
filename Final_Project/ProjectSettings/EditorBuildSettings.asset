@@ -18,9 +18,12 @@ EditorBuildSettings:
     path: Assets/Scenes/lv_01.unity
     guid: f4afd9982e723fb43a3780a1def02e4b
   - enabled: 1
-    path: Assets/Scenes/Player testing.unity
-    guid: 789e7a702e89505478a58039f7a77a59
-  - enabled: 1
     path: Assets/Scenes/game_over.unity
     guid: 2af2ebb9624743c439da3a625a6525b1
+  - enabled: 1
+    path: Assets/Scenes/game_over2.unity
+    guid: 7390f40ceab93804ab0a00ea402052b5
+  - enabled: 1
+    path: Assets/Scenes/Player testing.unity
+    guid: 789e7a702e89505478a58039f7a77a59
   m_configObjects: {}
